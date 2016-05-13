@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./herodotihistori01steigoog_0009.png"; bbox 0 0 3175 5092; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 430 1467 1012 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 430 1467 1012 1554">
+     <span class='ocr_line' id='line_1_1' title="bbox 430 1467 1012 1554; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 430 1469 643 1554; x_wconf 79' lang='lat' dir='ltr'>CONLEGIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 669 1467 1012 1552; x_wconf 74' lang='lat' dir='ltr'>GEDANENSIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 1827 1327 2008">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 1827 1327 2008">
+     <span class='ocr_line' id='line_1_2' title="bbox 175 1827 1327 2008; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 175 1827 179 1835; x_wconf 72' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 274 1889 746 2008; x_wconf 74' lang='lat' dir='ltr'>THEOPHILO</span> <span class='ocrx_word' id='word_1_5' title='bbox 782 1888 1166 2008; x_wconf 79' lang='lat' dir='ltr'>ROEPERO</span> <span class='ocrx_word' id='word_1_6' title='bbox 1325 1976 1327 1980; x_wconf 23' lang='lat'><em>1</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 265 2297 1176 2436">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 265 2297 1176 2436">
+     <span class='ocr_line' id='line_1_3' title="bbox 265 2297 1176 2436; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 265 2297 717 2436; x_wconf 81' lang='lat' dir='ltr'><strong>FRANCISCO</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 753 2315 1176 2436; x_wconf 87' lang='lat' dir='ltr'>BRESLERO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1592 5092">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1592 5092">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1592 5092; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1592 5092; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
